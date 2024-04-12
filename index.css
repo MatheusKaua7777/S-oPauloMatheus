@@ -1,0 +1,44 @@
+body
+{
+background-color: #fff1d6;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+line-height: 1.6;
+width: 1000px;
+margin:0 auto;
+
+}
+main
+{
+
+    text-align: justify;
+   display: flex;
+}
+section
+{
+    border: 1px solid #ccc;
+    border-color: #ccc #999 #999 #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff;
+    text-align: justify;
+    margin-right: 10px;
+}
+article
+{
+    margin-right: 10px;
+    width: 800px;
+}
+aside
+{  
+    border: 1px solid #ccc;
+    border-color: #ccc #999 #999 #ccc;
+    background-color: #fffbe4;
+    padding: 1px;
+    width: 480px;
+    margin-left: 10px;
+    height: 300px;
+}
+h1
+{
+   
+}
